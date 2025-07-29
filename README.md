@@ -29,9 +29,5 @@ This project demonstrates a complete end-to-end data engineering solution on Mic
 - Real-world project aligned with enterprise architecture
 - Skill-building in CI/CD, big data processing, and Azure ecosystem
 
-## 🤝 Contributions
-
-Open to suggestions and contributions. Feel free to fork or raise issues.
-
 ---
 
